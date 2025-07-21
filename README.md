@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Thashin, a frontend developer and UX/UI designer passionate about accessibility and design.
+Hi, I'm Thashin, a frontend developer and UX/UI designer passionate about accessibility and design!
 
 ## Current Focus
 
