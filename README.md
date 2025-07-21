@@ -1,20 +1,21 @@
-<h1 align="center">Hi, I'm Thashin</h1>
-<h3 align="center">A Frontend Developer and UX/UI Designer</h3>
+## About Me
 
-- I’m currently working on **Eventure**
+Hi, I'm Thashin, a frontend developer and UX/UI designer passionate about accessibility and design.
 
-- I’m currently learning **full-stack development**
+## Current Focus
 
-- All of my projects and information is available at [www.thashin.dev/](www.thashin.dev/)
+- Working on **Eventure**
+- Learning full-stack development
 
-- I occasionally post on Linkedin at [https://www.linkedin.com/in/thashin04/](https://www.linkedin.com/in/thashin04/)
+## Get in Touch
 
-- Ask me about **anything related to accessibility and design**
+- LinkedIn: https://www.linkedin.com/in/thashin04/
+- Email: thashinbhuiyan04@gmail.com
 
-- How to reach me: **thashinbhuiyan04@gmail.com**
+## Feel free to explore my projects and reach out for collaborations or discussions related to accessibility and design!
 
-- Check out my Resume: [https://www.thashin.dev/resume.pdf](https://www.thashin.dev/resume.pdf)
+- https://www.thashin.dev/
 
-- Fun fact about me: **I can do a realistic duck quack impression.**
+## Fun Fact
 
-</p>
+I can do a realistic duck quack impression!
