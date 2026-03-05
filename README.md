@@ -4,7 +4,7 @@ Hi, I'm Thashin, a frontend developer and UX/UI designer passionate about access
 
 ## Current Focus
 
-- Working on **Eventure**
+- Working on **Revamping my portfolio**
 - Learning full-stack development
 
 ## Get in Touch
