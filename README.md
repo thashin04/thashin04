@@ -15,4 +15,4 @@ Hi, I'm Thashin, a frontend developer and UX/UI designer passionate about access
 
 ## Feel free to explore my projects and reach out!
 
-- https://www.thashin.dev/
+- https://www.thashin.design/
